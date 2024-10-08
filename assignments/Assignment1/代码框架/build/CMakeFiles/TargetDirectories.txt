@@ -1,0 +1,3 @@
+/home/colma/GAMES101/Assignment1/代码框架/build/CMakeFiles/Rasterizer.dir
+/home/colma/GAMES101/Assignment1/代码框架/build/CMakeFiles/edit_cache.dir
+/home/colma/GAMES101/Assignment1/代码框架/build/CMakeFiles/rebuild_cache.dir
